@@ -17,7 +17,7 @@ cd c:\Users\sansa\OneDrive\桌面\1A2B_SICXE
 ### 一鍵啟動 (推薦)
 此腳本會先產生亂數種子，接著自動組譯並啟動遊戲：
 
-* **CLI 版**（直接於終端機內遊玩）：
+  **CLI 版**（直接於終端機內遊玩）：
   ```powershell
   powershell -ExecutionPolicy Bypass -File .\run-random.ps1
   ```
