@@ -1,0 +1,6 @@
+META-INF/
+*.log
+*.lst
+*.obj
+*.dev
+jarlist.txt
